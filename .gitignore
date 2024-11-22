@@ -15,3 +15,7 @@
 
 # Ignore compiled output
 /build/
+
+# Ignore created html and md files
+*.html
+*.md
