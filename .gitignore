@@ -1,0 +1,17 @@
+# Ignore build artifacts
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore other temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore compiled output
+/build/
